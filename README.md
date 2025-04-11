@@ -2,6 +2,9 @@
 
 A modern, feature-rich map application built with Angular 17 and Google Maps API. This application provides an intuitive interface for exploring and filtering locations across New York City.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/4cf6a21c-4ff7-41f8-90e0-746439602079)
+
 ## Core Features
 
 ### 1. Map Display & Marker Management
